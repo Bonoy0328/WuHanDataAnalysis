@@ -10,4 +10,4 @@
   ![](images/image3.png)
   step4:函数第一个参数为xlsx文件路径，这里是相对路径（也可用绝对路径）保证表格文件与代码文件在同一个文件夹内。第二个参数为预测天数，注意天数越多预测信息鲁棒性越差，修改天数后再次运行，即可得到如下的图像<br>
   ![](images/image2.png)
-  step5:如果出现图像文本错乱的现象，打开WuHanDataAnalysisFun.m文件自行修改文本标注处
+  step5:如果出现图像文本错乱的现象，打开WuHanDataAnalysisFun.m文件自行修改文本标注位置
